@@ -4,7 +4,7 @@ Welcome to the documentation of Elmo-Net. This is intended to guide you through
 the project, help you to understand it and get you started contributing if you
 like to.
 
-## Birds-Eye :airplane:
+## Birds-Eye View
 
 Elmo-Net is a functional C++ library that is trying to make distributed games as
 easy as possible. It provides a distributed hash-table based on the Kademlia
